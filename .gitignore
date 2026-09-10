@@ -1,0 +1,45 @@
+# Datasets - too large for git, not source code
+/Data/
+
+# Model checkpoints - binary weights
+/checkpoints/
+
+# Generated results, logs, and training artifacts
+/results/
+/logs/
+/catboost_info/
+/tmp/
+
+# Python bytecode cache
+__pycache__/
+*.pyc
+
+# Paper drafts, manuscripts, figures, tables, and LaTeX build artifacts
+# (source code only is pushed; no figures/tables from the paper)
+/IEEE Transactions level/
+/MorphGuard_IDS_Proposal (1)/
+/MorphGuard_IDS_Proposal (1).zip
+/MorphGuard_IDS_Proposal (4).pdf
+/MorphGuard_IDS_Proposal__Copy_/
+/MorphGuard_IDS_Proposal__Copy_ (1).pdf
+/MorphGuard_IDS_Proposal_updated.pdf
+/MorphGuard_IDS_overleaf.zip
+/main.tex
+/morphguard_ids_ieee_six_page_draft (1).tex
+
+figures/*.png
+figures/*.pdf
+manuscript/*.tex
+manuscript/*.pdf
+manuscript/*.aux
+manuscript/*.log
+manuscript/*.bib
+manuscript/*.blg
+manuscript/*.bbl
+tables/*.tex
+
+*.aux
+*.bbl
+*.blg
+*.log
+*.synctex.gz
