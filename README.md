@@ -173,7 +173,6 @@ Output: `manuscript/morphguard_ids_final.tex`
   author  = {Mohamed Massaoudi and Maymouna Ez Eddin and Katherine R. Davis},
   title   = {MorphGuard-IDS: Self-Supervised Causal Hypergraph Distillation for
              Real-Time Intrusion Detection in Cyber-Physical and IIoT Systems},
-  journal = {IEEE Transactions on Information Forensics and Security},
   year    = {2026}
 }
 ```
